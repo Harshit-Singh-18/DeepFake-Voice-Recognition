@@ -11,18 +11,6 @@ This project focuses on detecting deep fake audio using advanced machine learnin
 - **Model Training:** Employed dropout and early stopping methods to improve the reliability of audio classification.
 - **Frameworks:** Used TensorFlow and Keras for building and training the deep learning model.
 
-## Installation
-
-To set up this project, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/your-repo.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd your-repo
-    ```
 
 ## Contributing
 
